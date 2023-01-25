@@ -1,0 +1,171 @@
+{
+    "Type": "exhibit",
+    "ID": 100,
+    "CustomerID": 100,
+    "Archived": false,
+    "DateCreated": "",
+    "Dimension(H/W/L)": "48m, 155m, 190m",
+    "Vistors/Year": "6.000.000",
+    "Year Created": "70-72 AD",
+    "Capacity": "80,000",
+    
+    "Construction started": "70 AD",
+    "Opened": "80 AD",
+    "CurrentValue": "77.000.000.000 €",
+    "InitialCost": "250.000.000 - 1.000.000.000 €",
+    "Latitude": "41.8902",
+    "Longitude": "12.4922",
+    "Language": [{
+            "LangID": "en_US",
+            "Complexity": [{
+                    "CompID": 0,
+                    "Title": "Colosseum",
+                    "Name": "Colosseum",
+                    "PlaceMade": "Rome, Italy",
+                    "PlaceDisplayed": "",
+                    "Artist": "Vespasian",
+                    "Manufacturer": "",
+                    "Built by": "Vespasian, Titus",
+                    "Height": "48",
+                    "HeightUnit": "meter",
+                    "Weight": "",
+                    "WeightUnit": "ton",
+                    "Width": "155 m",
+                    "WidthUnit": "meter",
+                    "Length": "190",
+                    "LengthUnit": "meter",
+					"Area": "2",
+					"AreaUnit": "ha",
+                    "MeasurementUnit": "metric",
+                    "Description": "The Colosseum is an amphitheatre built in Rome under the Flavian emperors of the Roman Empire. It is also called the Flavian Amphitheatre. It is an elliptical structure made of stone, concrete, and tuff, and it stands four stories tall at its highest point",
+                    "VoiceDescription": "",
+                    "Material": "stone,concrete",
+                    "Classification": "World Wonder",
+                    "Category": "Building",
+                    "Tags": ["Monument", "Historical", "Tourism"],
+                    "Videos": [{
+                            "Title": "Weaving Techniques",
+                            "Date": "",
+                            "LowResolution": "https://www.youtube.com/watch?v=k_o85S-vumc",
+                            "HighResolution": "https://www.youtube.com/embed/k_o85S-vumc",
+                            "Description": "A testvideo from youtube"
+                        }
+                    ],
+                    "Images": [{
+                            "Title": "Burning Colosseum",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2017/08/02/16/47/colosseum-2572396_1280.jpg",
+                            "BeforeComparison": "https://cdn.pixabay.com/photo/2020/05/29/19/06/trinita-dei-monti-5236301__340.jpg",
+                            "BeforeDescription": "the description of the before image for comparison",
+                            "AfterComparison": "https://cdn.citywonders.com/media/15101/flowers-on-the-spanish-steps.jpg",
+                            "AfterDescription": "the description of the after image for comparison",
+                            "Description": "The colosseum in flames after Rome was raided by the vandales in 455."
+                        }, {
+                            "Title": "Front View",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2017/12/11/12/14/colosseum-3012088_960_720.jpg",
+                            "Description": "the front view of the colosseum"
+                        }, {
+                            "Title": "Colosseum Arena",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2019/06/20/23/32/colosseum-4288115_960_720.jpg",
+                            "Description": "A view of the inside of the colosseum. You can see the detailed architecture underneath the arena"
+                        }
+                    ],
+					"Audio": [{
+                            "Title": "",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "",
+                            "Description": ""
+                        }
+                    ],
+                    "3D": [{
+                            "Title": "",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "",
+                            "Description": ""
+                        }
+                    ]
+                },
+				{
+                    "CompID": 1,
+                    "Title": "Colosseum",
+                    "Name": "Colosseum",
+                    "PlaceMade": "Rome, Italy",
+                    "PlaceDisplayed": "",
+                    "Artist": "Vespasian",
+                    "Manufacturer": "",
+                    "Built by": "Vespasian, Titus",
+                    "Height": "48",
+                    "HeightUnit": "meter",
+                    "Weight": "",
+                    "WeightUnit": "ton",
+                    "Width": "155 m",
+                    "WidthUnit": "meter",
+                    "Length": "190",
+                    "LengthUnit": "meter",
+					"Area": "2",
+					"AreaUnit": "ha",
+                    "MeasurementUnit": "metric",
+                    "Description": "The Colosseum is an old Stadium in Rome. It is made of stone, concrete, and tuff. It is four stories tall",
+                    "VoiceDescription": "",
+                    "Material": "stone, concrete, tuff",
+                    "Classification": "World Wonder",
+                    "Category": "Building",
+                    "Tags": ["Monument", "Historical", "Tourism"],
+                    "Videos": [
+                    ],
+                    "Images": [{
+                            "Title": "Burning Colosseum",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2017/08/02/16/47/colosseum-2572396_1280.jpg",
+                            "BeforeComparison": "https://cdn.pixabay.com/photo/2020/05/29/19/06/trinita-dei-monti-5236301__340.jpg",
+                            "BeforeDescription": "the description of the before image for comparison",
+                            "AfterComparison": "https://cdn.citywonders.com/media/15101/flowers-on-the-spanish-steps.jpg",
+                            "AfterDescription": "the description of the after image for comparison",
+                            "Description": "The colosseum in flames after Rome was raided by the vandales in 455."
+                        }, {
+                            "Title": "Front View",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2017/12/11/12/14/colosseum-3012088_960_720.jpg",
+                            "Description": "the front view of the colosseum"
+                        }, {
+                            "Title": "Colosseum Arena",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "https://cdn.pixabay.com/photo/2019/06/20/23/32/colosseum-4288115_960_720.jpg",
+                            "Description": "A view of the inside of the colosseum. You can see the detailed architecture underneath the arena"
+                        }
+                    ],
+					"Audio": [{
+                            "Title": "",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "",
+                            "Description": ""
+                        }
+                    ],
+                    "3D": [{
+                            "Title": "",
+                            "Date": "",
+                            "LowResolution": "",
+                            "HighResolution": "",
+                            "Description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "RelatedItems": [{
+            "ID": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "techround220",
+  "version": "1.0.0",
+  "description": "Interview Tech Round-2 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanMarten/Techround220.git"
+  },
+  "author": "Ahtesham Zaidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanMarten/Techround220/issues"
+  },
+  "homepage": "https://github.com/DanMarten/Techround220#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}

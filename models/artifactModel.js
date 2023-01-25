@@ -1,0 +1,51 @@
+const mongoose = require("mongoose");
+
+// not added the all fields and verification due to time constraint
+const artifactSchema = new mongoose.Schema(
+  {
+    Type: {},
+    ID: {},
+    CustomerID: {},
+    Archived: {},
+    DateCreated: {},
+    "Dimension(H/W/L)": {},
+    "Vistors/Year": {},
+    "Year Created": {},
+    Capacity: {},
+    "Construction started": {},
+    Opened: {},
+    CurrentValue: {},
+    InitialCost: {},
+    Latitude: {},
+    Longitude: {},
+    Title: {},
+    Name: {},
+    PlaceMade: {},
+    PlaceDisplayed: {},
+    Artist: {},
+    Manufacturer: "",
+    "Built by": {},
+    Height: {},
+    HeightUnit: {},
+    Weight: {},
+    WeightUnit: {},
+    Width: {},
+    WidthUnit: {},
+    Length: {},
+    LengthUnit: {},
+    Area: {},
+    AreaUnit: {},
+    MeasurementUnit: {},
+    Description: {},
+    VoiceDescription: {},
+    Material: {},
+    Classification: {},
+    Category: {},
+    Tags: { type: Array },
+    Language: { type: Array },
+    RelatedItems: { type: Array },
+  },
+  { timestamps: true }
+);
+
+module.exports = mongoose.model("Artifacts", artifactSchema);
